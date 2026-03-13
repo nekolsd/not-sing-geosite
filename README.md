@@ -1,1 +1,1 @@
-# rules
+# Moved to [https://github.com/nekolsd/sing-geosite/tree/domain-set](https://github.com/nekolsd/sing-geosite/tree/domain-set)
